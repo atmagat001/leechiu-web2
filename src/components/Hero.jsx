@@ -8,11 +8,11 @@ function Hero() {
             <Header />
             <div className='hero'>
                 <div className="hero-container ">
-                    <div className="hero-background cont-column">
+                    <div className="left-container hero-background cont-column">
                         <h1>Our Insights, Your Success</h1>
                         <h2>Get our latest Real Estate Market Insights</h2>
-                        <div className='cont-row'>
-                            <input type="text" placeholder='Enter your email address' />
+                        <div className='search-box cont-row'>
+                            <input type="email" placeholder='Enter your email address' />
                             <button>Download</button>
                         </div>
                     </div>
