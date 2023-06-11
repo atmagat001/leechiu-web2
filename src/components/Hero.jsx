@@ -11,7 +11,7 @@ function Hero() {
                     <div className="left-container hero-background cont-column">
                         <h1>Our Insights, Your Success</h1>
                         <h2>Get our latest Real Estate Market Insights</h2>
-                        <div className='search-box cont-row'>
+                        <div className='search-box'>
                             <input type="email" placeholder='Enter your email address' />
                             <button>Download</button>
                         </div>
